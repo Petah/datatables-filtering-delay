@@ -45,4 +45,4 @@ jQuery.fn.dataTableExt.oApi.fnSetFilteringDelay = function ( oSettings, iDelay )
 		return this;
 	} );
 	return this;
-}
+};
